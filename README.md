@@ -21,11 +21,10 @@ Stampare il calendario semplificato del mese corrente (marzo) colorando di rosso
 Per questo esercizio probabilmente vi servirà l'array di giorni di settimana, l'array di giorni festivi e un ciclo for. (modificato) 
 
 ## Svolgimento esercizio Mail
-- [ ] Creare una variabile con il dato inserito dall'utente.
-- [ ] Fare confronto con la lista di email di cui siamo a disposizione.
-- [ ] In caso l'email è presente stampare una risposta appropiata.
-- [ ] In caso l'email non è presente stampare una risposta appropiato.
- allegata alla consegna.
+- [x] Creare una variabile con il dato inserito dall'utente.
+- [x] Fare confronto con la lista di email di cui siamo a disposizione.
+- [x] In caso l'email è presente stampare una risposta appropiata.
+- [x] In caso l'email non è presente stampare una risposta appropiato.
 ## Svolgimento esercizio dadi
 - [ ] Creare una variabile random da 1 a 6 per l'utente.
 - [ ] Creare una variabile random da 1 a 6 per il pc.
