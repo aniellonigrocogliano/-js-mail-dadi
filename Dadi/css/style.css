@@ -1,0 +1,77 @@
+.dado-1 {
+    background-image: url(../img/1.png);
+    width: 200PX;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    width: 200PX;
+    height: 200px;
+    animation-name: randomutente;
+    animation-duration: 5s;
+    animation-timing-function: ease-out;
+}
+
+.dado-2 {
+    background-image: url(../img/2.png);
+    width: 200PX;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    width: 200PX;
+    height: 200px;
+    animation-name: randomutente;
+    animation-duration: 5s;
+    animation-timing-function: ease-out;
+}
+
+.dado-3 {
+    background-image: url(../img/3.png);
+    width: 200PX;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    width: 200PX;
+    height: 200px;
+    animation-name: randomutente;
+    animation-duration: 5s;
+    animation-timing-function: ease-out;
+}
+
+.dado-4 {
+    background-image: url(../img/4.png);
+    width: 200PX;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    width: 200PX;
+    height: 200px;
+    animation-name: randomutente;
+    animation-duration: 5s;
+    animation-timing-function: ease-out;
+}
+
+.dado-5 {
+    background-image: url(../img/5.png);
+    width: 200PX;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    width: 200PX;
+    height: 200px;
+    animation-name: randomutente;
+    animation-duration: 5s;
+    animation-timing-function: ease-out;
+}
+
+.dado-6 {
+    background-image: url(../img/6.png);
+    width: 200PX;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    width: 200PX;
+    height: 200px;
+    animation-name: randomutente;
+    animation-duration: 5s;
+    animation-timing-function: ease-out;
+}

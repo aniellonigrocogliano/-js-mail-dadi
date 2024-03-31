@@ -6,7 +6,7 @@ check.addEventListener("click", function () {
     let flag = false; // imposto la variabile di controllo su falso
     const email = document.getElementById("email").value;
     console.log(email);
-    if (email.indexOf("@") != -1) { //verifico se l'utente ha immesso realmente un email
+    if (email.indexOf("@") != -1) { //verifico se l'utente ha immesso realmente un email verificando se nella stringa è presente il carattere @
         for (let i = 0; i < listEmail.length; i++) { //scorro l'intero array
             if (listEmail[i] == email) { // In caso l'email è presente cambio lo stato di flag da falso a vero
                 flag = true;
@@ -15,10 +15,10 @@ check.addEventListener("click", function () {
         if (flag == true) {
             document.getElementById("result").innerHTML = `<div class="alert alert-success text-center" role="alert"> La tua email è presente nella lista! </div>`; // se l'email è presente stampo a video l'esito positivo
         } else {
-            document.getElementById("result").innerHTML = `<div class="alert alert-danger text-center" role="alert"> La tua email non è presente nella lista! </div>`; // se l'email è presente stampo a video l'esito negativo
+            document.getElementById("result").innerHTML = `<div class="alert alert-danger text-center" role="alert"> La tua email non è presente nella lista! </div>`; // se l'email non è presente stampo a video l'esito negativo
         }
     } else {
-        alert("Non hai inserito un indirizzo email valido") // in caso l'utente non abbia inserito un email resetto la pagina
+        alert("Non hai inserito un indirizzo email valido") // in caso l'utente non abbia inserito un email resetto la pagina e lo avviso che non ha inserito un email valida
         document.getElementById("email").value = "";
         document.getElementById("result").innerHTML = "";
     }
