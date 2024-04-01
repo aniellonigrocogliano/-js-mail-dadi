@@ -26,14 +26,14 @@ Per questo esercizio probabilmente vi servirà l'array di giorni di settimana, l
 - [x] In caso l'email è presente stampare una risposta appropiata.
 - [x] In caso l'email non è presente stampare una risposta appropiato.
 ## Svolgimento esercizio dadi
-- [ ] Creare una variabile random da 1 a 6 per l'utente.
-- [ ] Creare una variabile random da 1 a 6 per il pc.
-- [ ] In caso il numero utente è  maggiore vince l'utente e stampiamo hai vinto.
-- [ ] In caso il numero pc è maggiore stampiamo hai perso.
-- [ ] In caso i due numeri siano uguali stampiamo pareggio.
+- [x] Creare una variabile random da 1 a 6 per l'utente.
+- [x] Creare una variabile random da 1 a 6 per il pc.
+- [x] In caso il numero utente è  maggiore vince l'utente e stampiamo hai vinto.
+- [x] In caso il numero pc è maggiore stampiamo hai perso.
+- [x] In caso i due numeri siano uguali stampiamo pareggio.
 ## Svolgimento esercizio bonus
-- [ ] Creiamo una lista con le date festive.
-- [ ] Creare un ciclo che generi i 31 giorni del mese di marzo.
-- [ ] Confrontiamo ogni numero con la lista dei giorni festivi.
-- [ ] In caso il numero è presente nei giorniu festivi lo coloriamo di rosso
-- [ ] Creare un contenitore dove mostrare il risultato.
+- [x] Creiamo una lista con le date festive.
+- [x] Creare un ciclo che generi i 31 giorni del mese di marzo.
+- [x] Confrontiamo ogni numero con la lista dei giorni festivi.
+- [x] In caso il numero è presente nei giorniu festivi lo coloriamo di rosso
+- [x] Creare un contenitore dove mostrare il risultato.
